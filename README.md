@@ -12,6 +12,7 @@ While this isn't PBKDF2, it's much, much more secure than before!
 
 ## NOTICE:
 KyberVencordCrypt ONLY runs on Vencord Web as of now. Sorry!
+NEW NOTICE: IF A MESSAGE HAS A YELLOW MARKER INSTEAD OF GREEN, THE OTHER PERSON IS USED AN OLD VERSION OF KDC. DISABLE ENCRYPTION AND ASK THEM TO UPDATE
 
 ## INSTALLATION
 To install, please install Tampermonkey from https://www.tampermonkey.net/ and then click [here](https://github.com/SpiwalObsessed/KyberVencordCrypt/raw/refs/heads/main/KyberVencordCrypt.user.js) to install the userscript!
@@ -19,3 +20,4 @@ To install, please install Tampermonkey from https://www.tampermonkey.net/ and t
 ## WARNING
 If you do not encrypt your database with a password, KyberVencordCrypt is basically useless, as physical access to any devices would compromise messages.
 Key rotations happen every 24 hours just like before. This does not effect the ability to read older messages!
+
