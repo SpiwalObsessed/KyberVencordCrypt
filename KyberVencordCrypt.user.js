@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         KyberVencordCrypt
 // @namespace    https://github.com/SpiwalObsessed/KyberVencordCrypt
-// @version      2.0.4-1
+// @version      2.0.4.1
 // @description  I hope people won't start calling this KDC :3
 // @author       An0, leogx9r, Ceiridge & SpinnySpiwal
 // @downloadURL  https://github.com/SpiwalObsessed/KyberVencordCrypt/raw/refs/heads/main/KyberVencordCrypt.user.js
